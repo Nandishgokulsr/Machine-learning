@@ -1,2 +1,2 @@
-# Machine-lear
+# Machine-learning
 ## Cluster Analysis
